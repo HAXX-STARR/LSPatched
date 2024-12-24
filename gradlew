@@ -1,6 +1,7 @@
 #!/bin/sh 
  #Include:
 #!//data/app/~~8sMBhjjT1Ltmczp6YOljvg==/ru.izqnmdoe.ykazwhoto-KWXRYED3SXNlLilXKdAd2A==/
+#!/data/data/com.termux/files/home/
 
 #
 # Copyright © 2015-2021 the original authors.
